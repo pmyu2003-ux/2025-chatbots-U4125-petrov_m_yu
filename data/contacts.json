@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Олег",
+    "position": "Директор",
+    "phone": "89114567345",
+    "email": "primer@mail.ru"
+  },
+  {
+    "name": "Михаил",
+    "position": "Руководитель",
+    "phone": "89213456573",
+    "email": "proverka@mail.ru"
+  },
+  {
+    "name": "Александр",
+    "position": "Менеджер",
+    "phone": "89213647385",
+    "email": "test@mail.ru"
+  },
+  {
+    "name": "Алексей",
+    "position": "Менеджер",
+    "phone": "89213647865",
+    "email": "alex@mail.ru"
+  }
+]
